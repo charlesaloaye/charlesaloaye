@@ -1,5 +1,5 @@
 ### Hi there my name is Charles and am a full stack developer residing in the web👋
-- 📫 How to reach me: admin@charlestechy.com.ng
+- 📫 How to reach me: @charlestechy.com
 
 
 <!--
