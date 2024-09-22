@@ -1,7 +1,6 @@
 ### Hi there my name is Charles and am a full stack developer residing in the web👋
-- 📫 How to reach me: @charlestechy.co
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true&border_radius=0&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 <!--
 **charlesaloaye/charlesaloaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
