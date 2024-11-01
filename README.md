@@ -3,11 +3,14 @@ I love contributing to open-source projects here on GitHub and exploring innovat
 
 Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends 👋
 
-<a href="https://github.com/charlesaloaye/github-readme-stats">
+<a href="https://github.com/charlesaloaye/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charlesaloaye" />
 </a>
-<a href="https://github.com/charlesaloaye/convoychat">
+<a href="https://github.com/charlesaloaye/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesaloaye&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/charlesaloaye/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true&card_width=320" />
 </a>
 
 
