@@ -1,9 +1,11 @@
-### Hi there my name is Charles and am a full stack developer residing in the web👋
+### I'm Charles, a Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
+I love contributing to open-source projects here on GitHub and exploring innovative ways to solve problems. If you're interested in collaborating on something exciting, let’s connect!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true)
+Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true&border_radius=0&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true&border_radius=0&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 **charlesaloaye/charlesaloaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
