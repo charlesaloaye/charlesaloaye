@@ -3,8 +3,21 @@ I love contributing to open-source projects here on GitHub and exploring innovat
 
 Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
+<a href="https://github.com/charlesaloaye/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charlesaloaye" />
+</a>
+<a href="https://github.com/charlesaloaye/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesaloaye&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+
 <!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true&border_radius=0&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
 **charlesaloaye/charlesaloaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
