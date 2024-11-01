@@ -6,9 +6,7 @@ Outside of work, I enjoy playing and watching football, catching up on movies, s
 <a href="https://github.com/charlesaloaye/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=charlesaloaye" />
 </a>
-<a href="https://github.com/charlesaloaye/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesaloaye&layout=compact&langs_count=8&card_width=320" />
-</a>
+
 <a href="https://github.com/charlesaloaye/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true&card_width=320" />
 </a>
@@ -17,6 +15,9 @@ Outside of work, I enjoy playing and watching football, catching up on movies, s
 
 
 <!--
+<a href="https://github.com/charlesaloaye/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesaloaye&layout=compact&langs_count=8&card_width=320" />
+</a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true)
