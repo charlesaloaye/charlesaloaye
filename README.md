@@ -16,7 +16,11 @@ Outside of work, I enjoy playing and watching football, catching up on movies, s
 </a>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye)](https://git.io/streak-stats)
+<a href="https://github.com/charlesaloaye/">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=charlesaloaye" />
+</a>
+
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=charlesaloaye)](https://github.com/ashutosh00710/github-readme-activity-graph)
