@@ -1,5 +1,4 @@
-<--
-###  Hi 👋, i'm a Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
+<--###  Hi 👋, i'm a Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
 I love contributing to open-source projects here on GitHub and exploring innovative ways to solve problems. If you're interested in collaborating on something exciting, let’s connect!
 
 Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends.
@@ -26,10 +25,10 @@ Outside of work, I enjoy playing and watching football, catching up on movies, s
 ---
 
 ## 📈 GitHub Stats
-![Sedenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedenualoayecharles&show_icons=true&theme=radical)
+![Sedenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
 
 ## 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedenualoayecharles&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&layout=compact&theme=radical)
 
 ---
 
