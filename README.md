@@ -1,14 +1,13 @@
-<--###  Hi 👋, i'm a Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
-I love contributing to open-source projects here on GitHub and exploring innovative ways to solve problems. If you're interested in collaborating on something exciting, let’s connect!
-
-Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends.
--->
-
-
 # Hi there, I'm Sedenu Aloaye Charles 👋
 
 🎓 **B.Sc. Computer Science and Education** | 🌍 **Nigeria**  
 💻 **Full-Stack Software Engineer** | 🌐 Building modern web experiences  
+
+
+### A Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
+I love contributing to open-source projects here on GitHub and exploring innovative ways to solve problems. If you're interested in collaborating on something exciting, let’s connect!
+
+Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends.
 
 ---
 
