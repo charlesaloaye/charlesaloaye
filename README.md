@@ -20,7 +20,7 @@ Outside of work, I enjoy playing and watching football, catching up on movies, s
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-%2361DAFB.svg?style=flat-square&logo=exxpress&logoColor=blue)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
 ---
 
 ## 📈 GitHub Stats
