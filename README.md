@@ -1,7 +1,43 @@
+<--
 ###  Hi 👋, i'm a Software Engineer and tech enthusiast with a passion for building and learning. With a background in Computer Science, I’m currently expanding my skillset in advanced software development. 
 I love contributing to open-source projects here on GitHub and exploring innovative ways to solve problems. If you're interested in collaborating on something exciting, let’s connect!
 
 Outside of work, I enjoy playing and watching football, catching up on movies, shows, and music, as well as keeping up with general news. I also value quality time with family and friends.
+-->
+
+
+# Hi there, I'm Sedenu Aloaye Charles 👋
+
+🎓 **B.Sc. Computer Science and Education** | 🌍 **Nigeria**  
+💻 **Full-Stack Software Engineer** | 🌐 Building modern web experiences  
+
+---
+
+## 🚀 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-%2361DAFB.svg?style=flat-square&logo=exxpress&logoColor=blue)
+---
+
+## 📈 GitHub Stats
+![Sedenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedenualoayecharles&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sedenualoayecharles&layout=compact&theme=radical)
+
+---
+
+### 🔗 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-sedenu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/charlesaloaye/repo)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:charlestechy0@gmail.com)
+
 
 <!--
 <a href="https://github.com/charlesaloaye/">
