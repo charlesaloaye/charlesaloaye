@@ -1,4 +1,4 @@
-# Hi there, I'm Sedenu Aloaye Charles 👋
+# Hi there👋, I'm Sedenu Aloaye Charles 
 
 🎓 **B.Sc. Computer Science and Education** | 🌍 **Nigeria**  
 💻 **Full-Stack Software Engineer** | 🌐 Building modern web experiences  
