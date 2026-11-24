@@ -89,7 +89,7 @@ I enjoy working on practical projects that strengthen my backend engineering ski
 I'm open to collaborating on backend engineering projects, contributing to open-source software, and connecting with developers building meaningful technology.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-sedenu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlessedenu.cv)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlestechy.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlestechy0@gmail.com)
 
 ---
