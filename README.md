@@ -1,67 +1,97 @@
-# Hi there👋, I'm Sedenu Aloaye Charles 
+# Hi there 👋, I'm Sedenu Aloaye Charles
 
-🎓 **B.Sc. Computer Science and Education** | 🌍 **Nigeria**  
-💻 **Full-Stack Software Engineer** | 🌐 Building modern web experiences  
+**Backend Software Engineer | Python • FastAPI • Laravel • API Engineering**
 
----
+I'm a software engineer from Nigeria with a B.Sc. in Computer Science Education, passionate about designing, developing, and building reliable backend systems, scalable APIs, and modern software applications.
 
-## 🚀 Tech Stack
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat&logo=tailwind-css&logoColor=38B2AC)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
-![Axios](https://img.shields.io/badge/-Axios-C0C0C0?style=flat&logo=Axios&logoColor=5A29E4)
+My primary focus is backend engineering, with growing expertise in Python, FastAPI, database architecture, API design, and software development best practices. I also have experience building full-stack applications using Laravel and modern JavaScript technologies.
+
+I'm particularly interested in backend infrastructure, distributed systems, and the engineering foundations behind AI-powered applications.
 
 ---
 
-## 📈 GitHub Stats
-![Sedenu's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&layout=compact&theme=radical)
+## 🚀 Core Technologies & Tools
 
+### Backend Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
+### Databases & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-333333?style=for-the-badge)
+
+### API Engineering & Backend Concepts
+- RESTful API Design and Development
+- Authentication and Authorization
+- Data Validation with Pydantic
+- Database Modeling and Relationships
+- Database Migrations with Alembic
+- ORM and Query Optimization
+- API Error Handling and HTTP Status Codes
+- Backend Architecture and Clean Code
+- Caching and Background Processing
+
+### Frontend Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 🔗 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-sedenu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=google-chrome&logoColor=white)](https://charlessedenu.cv)
-[![Email](https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:charlestechy0@gmail.com)
+## 🌱 Currently Learning & Exploring
 
+- Advanced Python and FastAPI development
+- SQLAlchemy and database architecture
+- PostgreSQL performance and optimization
+- Authentication, authorization, and API security
+- Redis and background task processing
+- Docker and backend deployment
+- AI/ML backend engineering and AI-powered applications
+- Software architecture and scalable system design
 
-<!--
-<a href="https://github.com/charlesaloaye/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=charlesaloaye&layout=compact&langs_count=8&card_width=320" />
-</a>
-<a href="https://github.com/charlesaloaye/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true&card_width=320" />
-</a>
--->
+---
 
+## 🛠️ What I'm Building
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical)
+I enjoy working on practical projects that strengthen my backend engineering skills, particularly:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&hide_progress=true)
+- RESTful APIs with FastAPI and Laravel.
+- Database-driven applications using PostgreSQL.
+- Authentication and authorization systems.
+- Scalable backend services and SaaS applications.
+- AI-powered applications and intelligent APIs.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=charlesaloaye&theme=vue-dark&hide_border=true&border_radius=0&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+---
 
-**charlesaloaye/charlesaloaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Statistics
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesaloaye&show_icons=true&theme=radical&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesaloaye&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on backend engineering projects, contributing to open-source software, and connecting with developers building meaningful technology.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-sedenu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://charlessedenu.cv)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charlestechy0@gmail.com)
+
+---
+
+⭐ **Building, learning, contributing, and getting better every day.**
